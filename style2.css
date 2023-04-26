@@ -1,0 +1,23 @@
+.bg1{
+    background-image: url(fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+}
+.img1{
+    width: 150px;
+    height: 240px;
+    float: left;
+}
+.p1{
+    text-align: justify;
+    font-size: medium;
+    font-weight: 200;
+}
