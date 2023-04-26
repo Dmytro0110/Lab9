@@ -1,0 +1,20 @@
+.bg{
+    background-color: cadetblue;
+}
+.menu{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(6, 0, 58);
+}
+.small{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    font-weight: 200;
+    font-style: normal;
+    color:rgb(6, 0, 58);
+}
+.div1{
+    text-align: justify;
+}
